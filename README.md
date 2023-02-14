@@ -2,9 +2,13 @@
 1) Dentro do terminal execute:
 bash start.sh
 
+___
+
 //Parar o projeto
 1) O seguinte comando irá finalizar todos os screens:
 killall screen
+
+___
 
 *Observações:*
 
