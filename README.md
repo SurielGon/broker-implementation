@@ -3,7 +3,7 @@
 bash start.sh
 
 //Parar o projeto
-1) O seguinte comando irá finalizer todos os screens:
+1) O seguinte comando irá finalizar todos os screens:
 killall screen
 
 *Observações:*
